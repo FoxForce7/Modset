@@ -1,0 +1,5 @@
+///<'CHVD.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=CHVD
+//Pbo Type is: Arma Addon
+//Sha: '90A4438B3658B74590CD644949F7FDFD478FF19A'
+//////</properties>//////
