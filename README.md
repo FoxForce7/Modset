@@ -1,95 +1,21 @@
 # Modset
 
-<!----- Conversion time: 3.627 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* GD2md-html version 1.0β11
-* Mon Apr 23 2018 16:32:52 GMT-0700 (PDT)
-* Source doc: https://docs.google.com/open?id=1BjvOHVN0F8GVSC8POJqAELr1TvHszliBhbEQ2FhUgMk
------>
-
-
-
-# _Gentle Fox Mod Discussion and Suggestions._
-
-**Formatting:** To discuss mod, add topic to comment but start a new paragraph under discussion section.
-
-Current Version: 01
-
-Current Modpack Size: 370MB
-
-Link to current modpack: [https://drive.google.com/file/d/1ed7pSD1t9jh8ppJxdbQnlTI2O_rPmztG/view](https://drive.google.com/file/d/1ed7pSD1t9jh8ppJxdbQnlTI2O_rPmztG/view)
-
-
 # -Current Mods-
 
+ACE [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases)
 
-#### **-** ACE
+CBA [GitHub](https://github.com/CBATeam/CBA_A3/releases) (needed for Ace and other mods)
 
-	Info: (144MB) [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases)
+Task Force Arrowhead Radio [GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases) 
 
-	Consensus: good
-
-Comments: none
-
-
-#### - ACE compats
-
-
-                Info:Size(small?) Link same as ace?
-
-Consensus: probably good
-
-Comments: what is this?
-
-
-#### 
-            - **CBA**
-
-
-                Info:(1MB) [GitHub](https://github.com/CBATeam/CBA_A3/releases) (needed for Ace and other mods)
-
-Consensus: good
-
-Comments: none
-
-
-#### 
-            - **Task Force Arrowhead Radio**
-
-
-                Info:(132MB) [GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases) (Radio mod)
-
-Consensus: good
-
-Comments: Upgrade to version 1.0 at some point. 
-
-
-#### 
-            -** ILBE Assault Pack with RT-1523G**
-
-
-                Info:(37MB) [Forum](https://forums.bohemia.net/forums/topic/190324-ilbe-assault-pack-with-rt-1523g-tfar/) [Armaholic](http://www.armaholic.com/page.php?id=30863) (Long range radio backpacks)
+ILBE Assault Pack with RT-1523G [Forum](https://forums.bohemia.net/forums/topic/190324-ilbe-assault-pack-with-rt-1523g-tfar/) [Armaholic](http://www.armaholic.com/page.php?id=30863) (Long range radio backpacks)
 
 Consensus: good
 
 Comments:  Discuss: complete or partial?
 
 
-#### 
-            - **ShackTac STUI**
-
-
-                Info:(1MB) [Forum](https://forums.bohemia.net/forums/topic/139650-shacktac-user-interface-sthud-stgi-and-more/) [Armaholic](http://www.armaholic.com/page.php?id=29327) (Squad radar and group list)
+(1MB) [Forum](https://forums.bohemia.net/forums/topic/139650-shacktac-user-interface-sthud-stgi-and-more/) [Armaholic](http://www.armaholic.com/page.php?id=29327) (Squad radar and group list)
 
 Consensus: good
 
@@ -100,7 +26,7 @@ Comments: none
             - **Splendid Smoke**
 
 
-                Info:(1MB) [Forum](https://forums.bohemia.net/forums/topic/194479-splendid-smoke/) [Armaholic](http://www.armaholic.com/page.php?id=31688) (makes smoke clouds bigger)
+Info:(1MB) [Forum](https://forums.bohemia.net/forums/topic/194479-splendid-smoke/) [Armaholic](http://www.armaholic.com/page.php?id=31688) (makes smoke clouds bigger)
 
 Consensus: good
 
