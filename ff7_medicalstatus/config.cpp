@@ -26,7 +26,7 @@ class CfgVehicles {
 					statement = "[_target] execVM 'ff7_MedicalStatus\MedicalStatus.sqf'";
 					showDisabled = 0;
 					priority = 2;
-					icon = "MedicalStatus\heart.paa";
+					icon = "ff7_MedicalStatus\heart.paa";
 				};
 			};
 		};	
