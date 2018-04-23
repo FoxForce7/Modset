@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: RH_acc\c79ret.rvmat
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Thu Apr 19 04:12:07 2018 : 'file' last modified on Wed Jul 20 03:42:00 2016
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+class StageTI
+{
+	texture = "a3\data_f\default_vehicle_ti_ca.paa";
+};
+ambient[] = {0,0,0,1};
+diffuse[] = {0,0,0,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {1,30,1,1};
+specular[] = {0,0,0,1};
+specularPower = 0;
+renderFlags[] = {"NoZWrite"};
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
