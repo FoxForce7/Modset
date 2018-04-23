@@ -1,6 +1,4 @@
-# Modset
-
-# -Current Mods-
+# Additoinal Mods:
 
 ACE [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases)
 
@@ -9,10 +7,6 @@ CBA [GitHub](https://github.com/CBATeam/CBA_A3/releases) (needed for Ace and oth
 Task Force Arrowhead Radio [GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases) 
 
 ILBE Assault Pack with RT-1523G [Forum](https://forums.bohemia.net/forums/topic/190324-ilbe-assault-pack-with-rt-1523g-tfar/) [Armaholic](http://www.armaholic.com/page.php?id=30863) (Long range radio backpacks)
-
-Consensus: good
-
-Comments:  Discuss: complete or partial?
 
 ShackTac STUI [Forum](https://forums.bohemia.net/forums/topic/139650-shacktac-user-interface-sthud-stgi-and-more/) [Armaholic](http://www.armaholic.com/page.php?id=29327) (Squad radar and group list)
 
@@ -24,23 +18,20 @@ Arma Enhanced Movement [Forum](https://forums.bohemia.net/forums/topic/174788-en
 
 Urban Rappelling [Forum](https://forums.bohemia.net/forums/topic/192925-advanced-urban-rappelling/) [Armaholic](http://www.armaholic.com/page.php?id=31357) (Rappelling)
 
-ADR97 [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=669962280) (single p90 gun model)
-
 Achilles [Github](https://github.com/ArmaAchilles/Achilles/releases) (Zeus enhancer)
-
-FF7 compats & stuff (further description in discussion)
 
 VSM Gear: [Forum](https://forums.bohemia.net/forums/topic/185842-vsm-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=29775) (Uniforms)
 
-RH scopes and accessories  [Forum](https://forums.bohemia.net/forums/topic/178072-rh-acc-pack/) [Armaholic](http://www.armaholic.com/page.php?id=28057) (Scopes)
+#Edited Mods:
+RH scopes, selected [Forum](https://forums.bohemia.net/forums/topic/178072-rh-acc-pack/) [Armaholic](http://www.armaholic.com/page.php?id=28057) (Scopes)
 
+#Possible futre mods:
 NIArms NIArsenal [Forum](https://forums.bohemia.net/forums/topic/190455-niarms-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=28329)
-
+Ivory cars: Info:(200MB) Link? (selection of cars)
 Tactical Beards [Armaholic](http://www.armaholic.com/page.php?id=25411) (beards)
 
-Ivory cars: Info:(200MB) Link? (selection of cars)
-
-Rejected mods: MCC, Alive
+#Rejected mods: 
+MCC, Alive
 
 
    
