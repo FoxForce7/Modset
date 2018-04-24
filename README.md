@@ -1,4 +1,4 @@
-# Additoinal Mods:
+## Additoinal Mods:
 
 ACE [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases)
 
@@ -22,11 +22,11 @@ Achilles [Github](https://github.com/ArmaAchilles/Achilles/releases) (Zeus enhan
 
 VSM Gear: [Forum](https://forums.bohemia.net/forums/topic/185842-vsm-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=29775) (Uniforms)
 
-# Edited Mods:
+### Edited Mods:
 
 RH scopes, selected [Forum](https://forums.bohemia.net/forums/topic/178072-rh-acc-pack/) [Armaholic](http://www.armaholic.com/page.php?id=28057) (Scopes)
 
-# Possible futre mods:
+### Possible future mods:
 
 NIArms NIArsenal [Forum](https://forums.bohemia.net/forums/topic/190455-niarms-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=28329)
 
@@ -34,7 +34,7 @@ Ivory cars
 
 Tactical Beards [Armaholic](http://www.armaholic.com/page.php?id=25411) (beards)
 
-# Rejected mods: 
+### Rejected mods: 
 
 MCC, Alive, TF47 Launchers
 
