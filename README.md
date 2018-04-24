@@ -2,9 +2,9 @@
 
 ACE [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases)
 
-CBA [GitHub](https://github.com/CBATeam/CBA_A3/releases) (needed for Ace and other mods)
+CBA [GitHub](https://github.com/CBATeam/CBA_A3/releases) (Needed for Ace and other mods)
 
-Task Force Arrowhead Radio [GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases) 
+Task Force Arrowhead Radio [GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases) (Radio mod)
 
 ILBE Assault Pack with RT-1523G [Forum](https://forums.bohemia.net/forums/topic/190324-ilbe-assault-pack-with-rt-1523g-tfar/) [Armaholic](http://www.armaholic.com/page.php?id=30863) (Long range radio backpacks)
 
@@ -28,15 +28,12 @@ RH scopes, selected [Forum](https://forums.bohemia.net/forums/topic/178072-rh-ac
 
 ### Possible future mods:
 
-NIArms NIArsenal [Forum](https://forums.bohemia.net/forums/topic/190455-niarms-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=28329)
+NIArms NIArsenal [Forum](https://forums.bohemia.net/forums/topic/190455-niarms-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=28329) (Weapons pack)
 
 Ivory cars
 
-Tactical Beards [Armaholic](http://www.armaholic.com/page.php?id=25411) (beards)
+Tactical Beards [Armaholic](http://www.armaholic.com/page.php?id=25411) (Beards)
 
 ### Rejected mods: 
 
-MCC, Alive, TF47 Launchers
-
-
-   
+MCC, Alive, TF47 Launchers, ADR97
