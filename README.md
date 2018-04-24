@@ -1,8 +1,8 @@
-## Additoinal Mods:
+## Additional Mods:
 
-ACE [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases)
+ACE [Wiki](https://ace3mod.com/wiki/) [Github](https://github.com/acemod/ACE3/releases) (Collection of scripts)
 
-CBA [GitHub](https://github.com/CBATeam/CBA_A3/releases) (Needed for Ace and other mods)
+VSM Gear: [Forum](https://forums.bohemia.net/forums/topic/185842-vsm-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=29775) (Uniforms)
 
 Task Force Arrowhead Radio [GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/releases) (Radio mod)
 
@@ -20,7 +20,7 @@ Urban Rappelling [Forum](https://forums.bohemia.net/forums/topic/192925-advanced
 
 Achilles [Github](https://github.com/ArmaAchilles/Achilles/releases) (Zeus enhancer)
 
-VSM Gear: [Forum](https://forums.bohemia.net/forums/topic/185842-vsm-release-thread/) [Armaholic](http://www.armaholic.com/page.php?id=29775) (Uniforms)
+CBA [GitHub](https://github.com/CBATeam/CBA_A3/releases) (Needed for Ace and other mods)
 
 ### Edited Mods:
 
