@@ -37,6 +37,16 @@ class asdg_FrontSideRail: asdg_SlotInfo
 		FOX_SPOT_A = 1;
 	};
 };
+
+class asdg_PistolUnderRail: asdg_SlotInfo
+{
+	class compatibleItems
+	{
+		FOX_pistol_light_A = 1;
+		FOX_pistol_light_B = 1;
+	};
+};
+
 class cfgWeapons
 {
 	class acc_flashlight;
@@ -337,7 +347,7 @@ class cfgWeapons
 			{
 				color[] = {180,160,110};
 				ambient[] = {0.9,0.81,0.7};
-				intensity = 50;
+				intensity = 20;
 				size = 1;
 				scale[] = {0};
 				innerAngle = 5;
@@ -689,4 +699,89 @@ class cfgWeapons
 			};
 		};
 	};
+	class acc_flashlight_pistol;
+	class FOX_pistol_light_A: acc_flashlight_pistol
+	{
+		scope=2;
+		displayName="Fox Pistol Mini";
+		model="\A3\weapons_f\acc\accv_Flashlight_TLS_F.p3d";
+		author = "FoxForce";
+		MRT_switchItemHintText = "SPOT";
+		MRT_SwitchItemPrevClass = "FOX_pistol_light_B";
+		MRT_SwitchItemNextClass = "FOX_pistol_light_B";
+		class ItemInfo: InventoryFlashLightItem_Base_F
+		{
+			mass=3;
+			class FlashLight
+			{
+				color[]={180,160,130};
+				ambient[]={0.9,0.81,0.7};
+				intensity=25;
+				size=1;
+				innerAngle=15;
+				outerAngle=30;
+				coneFadeCoef=4;
+				position="flash dir";
+				direction="flash";
+				useFlare=1;
+				flareSize=1.4;
+				flareMaxDistance=100;
+				dayLight=0;
+				class Attenuation
+				{
+					start=100;
+					constant=60;
+					linear=10;
+					quadratic=0.1;
+					hardLimitStart=40;
+					hardLimitEnd=130;
+				};
+				scale[]={0};				
+			};
+		};
+	};				
+
+	class FOX_pistol_light_B: acc_flashlight_pistol
+	{
+		scope=1;
+		displayName="Fox Pistol Mini";
+		model="\A3\weapons_f\acc\accv_Flashlight_TLS_F.p3d";
+		author = "FoxForce";
+		MRT_switchItemHintText = "WIDE";
+		MRT_SwitchItemPrevClass = "FOX_pistol_light_A";
+		MRT_SwitchItemNextClass = "FOX_pistol_light_A";
+		class ItemInfo: InventoryFlashLightItem_Base_F
+		{
+			mass=3;
+			class FlashLight
+			{					
+				color[]={180,160,130};
+				ambient[]={0.9,0.81,0.7};
+				intensity=50;
+				size=1;
+				innerAngle=30;
+				outerAngle=100;
+				coneFadeCoef=2;
+				position="flash dir";
+				direction="flash";
+				useFlare=1;
+				flareSize=1.4;
+				flareMaxDistance=100;
+				dayLight=0;
+				class Attenuation
+				{
+					start=0;
+					constant=15;
+					linear=.1;
+					quadratic=0.2;
+					hardLimitStart=30;
+					hardLimitEnd=120;
+				};
+				scale[]={0};
+			};
+		};
+	};		
 };
+
+
+
