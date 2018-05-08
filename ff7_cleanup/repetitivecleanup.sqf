@@ -32,6 +32,10 @@
 */
 
 if (!isServer) exitWith {}; // isn't server
+waitUntil {time > 0};
+fox_cleanup = if (isNil "fox_cleanup") then {true} else {fox_cleanup};
+if (!fox_cleanup) exitWith {}; 
+
 
 
 #define COMPONENT repetitiveCleanup
