@@ -1,0 +1,5 @@
+///<'HAFM_HMMWV.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=HAFM_HMMWV
+//Pbo Type is: Arma Unknown pbo typ (no config).
+//Sha: '7CC125B05A5B17C6C35988BA0D7E535AD8CB32DD'
+//////</properties>//////

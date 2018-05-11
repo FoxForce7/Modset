@@ -376,7 +376,7 @@ class cfgWeapons
 	{
 		scope = 2;
 		displayName = "Fox Laser Light Combo";
-		model = "\a3\weapons_f\acc\accv_pointer_f.p3d";
+		model = "\a3\weapons_f\acc\accv_flashlight_f.p3d";
 		author = "FoxForce";
 		MRT_switchItemHintText = "IR Laser";
 		MRT_SwitchItemPrevClass = "FOX_COMBO_TORCH";
