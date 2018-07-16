@@ -1,0 +1,9 @@
+{
+    "autoTargets": [
+    {
+      "filePattern": "src/**",
+      "runTargets": "compile-addon",
+      "initialDelayMs": 1000
+    }
+    ]
+}
